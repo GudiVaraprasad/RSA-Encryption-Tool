@@ -1,4 +1,5 @@
-# RSA-Crypto-System
+# RSA-Encryption-Tool
+
 Cryptography is the science of using mathematics to encrypt and decrypt the data. Strong encryption algorithms have to be used to make it impossible for any attacker to attack the node which is strongly protected by multiple keys. The RSA algorithm is the foremost basic approach to protect and safeguard our encrypted data. 
 
 Our project will be implemented by making a web tool that generates public and private keys using RSA Encryption Algorithm. The main idea behind this process is that, factorizing the multiplication of two prime numbers takes time. 
